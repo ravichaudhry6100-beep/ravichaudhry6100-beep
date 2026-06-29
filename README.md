@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Patel</h1>
 
 <h3 align="center">
-B.Tech Student | Full Stack Developer | AI Enthusiast | Data Anallytics 🌍
+B.Tech Student | Full Stack Developer | AI Enthusiast | Data Analytics 🌍
 </h3>
 
 <p align="center">
