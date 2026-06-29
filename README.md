@@ -113,7 +113,6 @@ B.Tech Student | Full Stack Developer | AI Enthusiast | Data Analytics 🌍
 </a>
 
 <a href="https://www.linkedin.com/in/ravi-patel-250167402/" target="_blank">
-    www.linkedin.com/in/ravi-patel-250167402
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
