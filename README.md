@@ -14,9 +14,9 @@ B.Tech Student | Full Stack Developer | AI Enthusiast | Data Analytics 🌍
 
 🎓 B.Tech Engineering Student from GCET,Anand
 
-💻 Passionate about Full Stack Development and Artificial Intelligence
+💻 Passionate about Full Stack Development , Artificial Intelligence and Data Analytiics
 
-🤖 Interested in AI Automation, Web Applications and Business Technology
+🤖 Interested in leveraging AI Automation, Web Applications, and Data Analytics to build modern Business & Financial solutions
 
 🌍 Working towards building an international export business
 
